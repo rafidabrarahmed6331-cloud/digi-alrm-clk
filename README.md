@@ -4,6 +4,7 @@ digi-alarm clock
 
 A feature-rich digital clock and alarm application built with Python's Tkinter library. It features a clean, retro-inspired interface with a green-on-black "digital" display, along with robust alarm management functionalities.
 
+!(clock.png)
 
 Features
 
